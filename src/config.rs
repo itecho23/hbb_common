@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["ik.itecho23.work"];
-pub const RS_PUB_KEY: &str = "KfhtMNCDIajfbU6owoSDOe9MW5u9ucU4xUSsxGXfaN0=";
+pub const RS_PUB_KEY: &str = "21点39分";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
